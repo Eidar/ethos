@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"profile",
+				"profile_id"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"_",
+				"__construct"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"in",
+				"text-indent"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/laragon/www/Ethos/resources/views/uploadGraphic.blade.php",
+		"/C/laragon/www/Ethos/resources/views/master.blade.php",
+		"/C/xampp/htdocs/booking/view.php",
+		"/C/laragon/www/Ethos/public/css/style.css",
+		"/C/xampp/htdocs/booking/register.php",
+		"/F/booking/functions.php",
+		"/C/laragon/www/Ethos/app/Http/Controllers/HomeController.php",
+		"/C/laragon/www/Ethos/resources/views/welcome.blade.php",
+		"/C/laragon/www/Ethos/app/Http/Controllers/UploadData.php",
+		"/C/laragon/www/Ethos/resources/views/home.blade.php",
+		"/C/laragon/www/Ethos/routes/web.php",
+		"/C/laragon/www/Ethos/app/Upload.php",
+		"/C/laragon/www/Ethos/resources/views/uploadText.blade.php",
+		"/C/laragon/www/Ethos/resources/views/uploadMusic.blade.php",
+		"/C/laragon/www/Ethos/resources/views/uploadVideo.blade.php",
+		"/C/laragon/www/Ethos/app/Http/Controllers/SetProfile.php",
+		"/C/laragon/www/Ethos/resources/views/setprofile.blade.php",
+		"/C/laragon/www/Ethos/app/Profile.php",
+		"/C/laragon/www/Ethos/resources/views/profile.blade.php",
+		"/C/laragon/www/Ethos/config/app.php",
+		"/C/Users/Matija/Desktop/Ethos/app/Http/Controllers/ProfileInfosController.php",
+		"/C/laragon/www/Ethos/app/User.php",
+		"/C/laragon/www/Ethos/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/laragon/www/Ethos/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/Matija/Desktop/Ethos/public/css/app.css",
+		"/C/laragon/www/Ethos/resources/views/auth/register.blade.php",
+		"/C/Users/Matija/Desktop/Ethos/resources/views/profile.blade.php",
+		"/C/Users/Matija/Desktop/Ethos/public/css/style.css",
+		"/C/laragon/www/Ethos/resources/views/auth/login.blade.php",
+		"/C/laragon/www/Ethos/.env",
+		"/C/laragon/www/3thos/composer.json",
+		"/C/laragon/www/3thos/resources/views/home.blade.php",
+		"/C/laragon/www/3thos/resources/views/master.blade.php",
+		"/C/laragon/www/3thos/routes/web.php",
+		"/C/laragon/www/3thos/config/app.php",
+		"/C/laragon/www/3thos/resources/views/profile.blade.php",
+		"/C/laragon/www/3thos/resources/views/auth/register.blade.php",
+		"/C/laragon/www/3thos/resources/views/auth/login.blade.php",
+		"/C/laragon/www/3thos/resources/views/profileinfo.blade.php",
+		"/C/laragon/www/3thos/resources/views/welcome.blade.php",
+		"/C/laragon/www/3thos/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/Ethos/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/3thos/.env",
+		"/C/laragon/www/Ethos/app/Http/Controllers/ProfileInfosController.php",
+		"/C/laragon/www/Ethos/app/ProfileInfo.php",
+		"/C/laragon/www/Ethos/resources/views/profileinfo.blade.php",
+		"/C/laragon/www/Ethos/app/Http/Middleware/GetUserData.php",
+		"/C/laragon/www/Ethos/app/profileinfo.php",
+		"/C/laragon/www/Ethos/app/Providers/AuthServiceProvider.php",
+		"/C/laragon/www/Ethos/app/Http/Kernel.php",
+		"/C/laragon/www/Ethos/app/Http/Middleware/LevelCheck.php",
+		"/C/laragon/www/Ethos/app/Http/Middleware/Auth.php",
+		"/C/laragon/www/Ethos/public/css/app.css",
+		"/C/laragon/www/Ethos/app/profileinfo",
+		"/C/laragon/www/Ethos/app/Http/Controllers/UriController.php",
+		"/C/laragon/www/Ethos/resources/views/login.blade.php",
+		"/C/laragon/www/Ethos/app/Order.php",
+		"/C/laragon/www/Ethos/public/index.php",
+		"/C/Users/Matija/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/laragon/www/index.php",
+		"/C/laragon/www/Ethos/app/Customer.php",
+		"/C/Users/Matija/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/laragon/www/Ethos/bootstrap/cache/services.php",
+		"/C/xampp/htdocs/laravel/server.php",
+		"/C/xampp/htdocs/laravel/bootstrap/app.php",
+		"/C/xampp/htdocs/laravel/bootstrap/autoload.php",
+		"/C/xampp/htdocs/laravel/public/index.php",
+		"/C/xampp/htdocs/laravel/config/app.php",
+		"/C/xampp/htdocs/laravel/config/mail.php",
+		"/C/xampp/htdocs/laravel/config/filesystems.php",
+		"/C/xampp/htdocs/laravel/config/database.php",
+		"/C/xampp/htdocs/laravel/config/compile.php",
+		"/C/xampp/htdocs/laravel/config/cache.php",
+		"/C/xampp/htdocs/laravel/config/broadcasting.php",
+		"/C/xampp/htdocs/laravel/config/auth.php",
+		"/C/xampp/htdocs/laravel/config/queue.php",
+		"/C/xampp/htdocs/laravel/config/services.php",
+		"/C/xampp/htdocs/laravel/config/session.php",
+		"/C/xampp/htdocs/laravel/config/view.php",
+		"/C/Users/Matija/Desktop/chat.js",
+		"/C/xampp/htdocs/laravel/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/ict/oop/index.php",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba6.php",
+		"/C/xampp/htdocs/ict/5/obrisi.php",
+		"/C/xampp/htdocs/ict/5/style.css",
+		"/C/xampp/htdocs/ict/5/view.php",
+		"/C/xampp/htdocs/ict/5/index.php",
+		"/C/xampp/htdocs/ict/5/functions.php",
+		"/C/Users/Matija/AppData/Local/Temp/Rar$DIa0.182/index.php",
+		"/C/Users/Matija/AppData/Local/Temp/Rar$DIa0.414/functions.php",
+		"/C/Users/Matija/AppData/Local/Temp/Rar$DIa0.927/style.css",
+		"/C/xampp/htdocs/ict/3/index.php",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba5 Bootstrap/noviunos.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba5 Bootstrap/pocetna.html",
+		"/C/xampp/htdocs/ict/2/css/style.css",
+		"/C/xampp/htdocs/ict/2/index.php",
+		"/C/xampp/htdocs/ict/2/newedit.php",
+		"/C/xampp/htdocs/ict/2/newview.php",
+		"/C/xampp/htdocs/ict/2/delete.php",
+		"/C/xampp/htdocs/ict/2/edit.php",
+		"/C/xampp/htdocs/ict/2/new.php",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 4 php kalkulator/racun.php",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 4 php kalkulator/index.php",
+		"/C/xampp/htdocs/ict/1/postforma.php",
+		"/C/xampp/htdocs/ict/1/index.php",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba5 Bootstrap/filmovi.html",
+		"/C/xampp/htdocs/ict/1/css/style.css",
+		"/C/xampp/htdocs/ict/index.php",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 4 php kalkulator/css/style.css",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/jQueryBootstrap.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba5 Bootstrap/css/style.css",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba5 Bootstrap/index.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 3 generirajuća tablica/index.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 3 generirajuća tablica/css/style.css",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 3 generirajuća tablica/js/jquery.js",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba4 - jquery.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 2 kalkulator/jskalkulator.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 2 kalkulator/css/style.css",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 2 kalkulator/js/racunanje.js",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba4 - javascript2.html",
+		"/F/Moja ICT karijera/JavaScript & jQuery/Zadaca_1/index.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba4.html",
+		"/C/Users/Matija/AppData/Local/Temp/Rar$DIa0.578/fonts.css",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Retrospect/css/style.css",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Retrospect/index.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 1/css/style.css",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/Zadaća/Zadaća 1/home.html",
+		"/C/Users/Matija/Desktop/MojaICTKarijera/vjezba3.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\laragon\\www\\Ethos"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">;",
+			" }}",
+			"');\n",
+			"\";\n",
+			"	\n",
+			";\n",
+			"}\n",
+			"%;\n",
+			"src",
+			"\n<!--",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
